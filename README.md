@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# myapp
 
-A new Flutter project.
+# Mobile Club SIC
+
+Mobile Club SIC24 Flutter project.
 
 ## Getting Started
 
